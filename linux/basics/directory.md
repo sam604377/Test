@@ -1,6 +1,6 @@
-## direcotry operation 
+## directory operation 
 
-#### pwd -- displays prsent working direcotry
+#### pwd -- displays present working directory
 ```
 ubuntu@naresh-vm:~$ pwd
 /home/ubuntu
@@ -14,12 +14,12 @@ ubuntu@naresh-vm:~$ mkdir testdir
 ubuntu@naresh-vm:~$ ls
 testdir
 ```
-#### cd testdir -- change direcotry
+#### cd testdir -- change directory
 ```
 ubuntu@naresh-vm:~$ cd testdir/
 ubuntu@naresh-vm:~/testdir$ 
 ```
-#### ls -l -- list contents of current dirctory with detailed output
+#### ls -l -- list contents of current directory with detailed output
 ```
 ubuntu@naresh-vm:~/testdir$ ls -l
 total 0
